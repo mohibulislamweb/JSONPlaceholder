@@ -1,4 +1,3 @@
-# JSONPlaceholder Posts
+## JSONPlaceholder Posts
 
-
-## 🔗 Live Site: json-placeholder-kappa.vercel.app
+**Live Site:**https://json-placeholder-kappa.vercel.app
